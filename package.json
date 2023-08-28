@@ -1,0 +1,18 @@
+{
+  "name": "dmoney-collection-newman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node report.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "install": "^0.13.0",
+    "newman": "^5.3.2",
+    "newman-reporter-htmlextra": "^1.22.11",
+    "npm": "^9.8.1"
+  }
+}
