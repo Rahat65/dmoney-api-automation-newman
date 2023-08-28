@@ -1,7 +1,7 @@
 # dmoney-api-automation-newman by postman and newman
 
 ## About this project:
-### In this project I have automated the d-money api using postman and newman. Here I have done various versitile tasks that is performed during transaction.
+### In this project I have automated the d-money api using postman and newman. D-money is a demo financial related project where fake money can be transferred. Here, I have done various versitile tasks that is performed during transaction.
 
 ## Tools & Technology Used: 
 - postman
