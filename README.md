@@ -20,3 +20,4 @@
 https://documenter.getpostman.com/view/25356639/2s9Y5ZtgRD
 
 ## Test Report
+![screencapture-file-D-SDET-Batch-8-assignmnets-dmoney-collection-newman-Reports-report-html-2023-08-28-19_21_48](https://github.com/Rahat65/dmoney-api-automation-newman/assets/70316722/e2c4f13c-cae4-4cfc-bbec-892706b371f4)
