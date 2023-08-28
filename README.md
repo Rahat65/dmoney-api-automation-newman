@@ -16,3 +16,7 @@
 - ``` npm i ```
 - ``` npm test ```
   
+## d-money API documentation
+https://documenter.getpostman.com/view/25356639/2s9Y5ZtgRD
+
+## Test Report
