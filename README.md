@@ -7,12 +7,12 @@
 -postman
 -newman
 
-##Prerequisites
--nodejs
+## Prerequisites
+- nodejs
 
 ## How to run:
 -Clone this project
 -Give following command:
 - ``` npm i ```
 - ``` npm test ```
-- 
+  
